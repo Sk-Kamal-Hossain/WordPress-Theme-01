@@ -61,6 +61,7 @@ img {
     text-align: left;
     top: 62px;
     width: 200px;
+    z-index: 99999;
 }
 
 #header_area .col-md-9 ul li:hover ul {
